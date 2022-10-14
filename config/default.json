@@ -1,0 +1,10 @@
+{
+  
+  "database": {
+    "client" : "mysql",
+    "host": "mysql:3306",
+    "user": "node_user",
+    "password": "nodepassword",
+    "database": "nodejs_crud"
+  }
+}

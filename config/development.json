@@ -1,0 +1,10 @@
+{
+  
+  "database": {
+    "host": "mysql",
+    "user": "node_user",
+    "port" : "3306",
+    "password": "nodepassword",
+    "database": "node_crud"
+  }
+}
